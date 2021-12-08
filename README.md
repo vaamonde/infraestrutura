@@ -35,4 +35,4 @@ Vídeo de Apresentação do Curso de Primeiros Passos em Infraestrutura de Redes
 
 Link da vídeo aula: https://www.youtube.com/watch?v=mrcFKp-C1fw
 
-Link do material utilizado nesse vídeo: 
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-00.pdf
