@@ -16,7 +16,8 @@
 
 🔌 Nesta primeira aula do Curso de Infraestrutura de Redes de Computadores, vamos explorar conceitos fundamentais que todo profissional de TI precisa dominar para entender como uma rede é projetada, estruturada e mantida.
 
-✅ O que você vai aprender neste vídeo:<br>
+✅ O que você vai aprender neste vídeo:
+
 Porte da Infraestrutura de Redes: Redes Residenciais, SOHO (Small Office/Home Office), Redes de Médio e Grande Porte.<br>
 Tipos de Infraestrutura de Redes: Workgroup e Cliente-Servidor.<br>
 Tabela Resumida do Porte de Rede para consulta rápida.<br>
@@ -62,7 +63,8 @@ Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrut
 🚀 Nessa segunda parte da Apresentação do Curso de Infraestrutura de Redes de Computadores
 Nesta aula, vamos aprofundar o entendimento sobre os principais tipos de redes, suas topologias e as conexões mais comuns utilizadas tanto em ambientes residenciais quanto corporativos.
 
-✅ O que você vai aprender neste vídeo:<br>
+✅ O que você vai aprender neste vídeo:
+
 LAN (Local Area Network) e WAN (Wide Area Network).<br>
 Diferenças entre Intranet, Extranet e Internet.<br>
 Tabela Resumida comparando LAN, WAN, Intranet, Extranet e Internet.<br>
@@ -97,7 +99,8 @@ Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrut
 
 📡 Nesta terceira parte da apresentação do Curso de Infraestrutura de Redes de Computadores, você vai entender como acontece a comunicação dentro das redes, desde os sinais até os métodos de transmissão e os tipos de comunicação utilizados em diferentes cenários.
 
-✅ O que você vai aprender neste vídeo:<br>
+✅ O que você vai aprender neste vídeo:
+
 Diferença entre Conversão Analógico-Digital (ADC) e Digital-Analógico (DAC).<br>
 Meios de Transmissão: analógica e digital.<br>
 Métodos de transmissão: Paralelo e Serial.<br>
@@ -133,7 +136,8 @@ Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrut
 🚀 Nessa quarta parte da apresentação do Curso de Infraestrutura de Redes de Computadores
 Nesta aula, vamos avançar do modelo tradicional de comunicação até as arquiteturas modernas que moldam o futuro da Internet, explorando conceitos fundamentais e tendências atuais no Brasil e no mundo.
 
-✅ O que você vai aprender neste vídeo:<br>
+✅ O que você vai aprender neste vídeo:
+
 Comunicação Baseada em Circuito (Telefonia) vs. Comunicação Baseada em Pacote (Redes TCP/IP).<br>
 Arquiteturas de Rede com: Tolerância a falhas Escalabilidade<br>
 Qualidade de Serviço (QoS, ToS, DS, CoS)<br>

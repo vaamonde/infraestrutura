@@ -14,7 +14,8 @@
 
 Com mais de 25 anos de experiência em projetos e consultoria para empresas e instituições, vou te guiar passo a passo no universo das redes.
 
-✅ O que você vai encontrar neste curso:<br>
+✅ O que você vai encontrar neste curso:
+
 Conceitos essenciais de redes (LAN, WAN, VLAN, WLAN, etc.)<br>
 Tipos de topologias físicas e lógicas<br>
 Equipamentos e componentes de redes (ativos e passivos)<br>

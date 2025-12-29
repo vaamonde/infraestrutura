@@ -10,60 +10,31 @@
 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE<br>
 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
 
-📡 Bem-vindo ao Curso de Infraestrutura de Redes de Computadores!Se você quer entender desde os fundamentos até as tecnologias mais usadas no mercado, este é o ponto de partida. 
+# Início do Módulo 02 - Introdução a Redes de Computadores - Etapa 02
 
-Com mais de 25 anos de experiência em projetos e consultoria para empresas e instituições, vou te guiar passo a passo no universo das redes.
+## **📡 Modelo OSI, TCP, IP, PDU, Ciberataques, Ethernet, Encapsulamento, Segmentação | Módulo 02 Aula 05**
 
-✅ O que você vai encontrar neste curso:<br>
-Conceitos essenciais de redes (LAN, WAN, VLAN, WLAN, etc.)<br>
-Tipos de topologias físicas e lógicas<br>
-Equipamentos e componentes de redes (ativos e passivos)<br>
-Simulação e virtualização com ferramentas profissionais (Packet Tracer, GNS3, EVE-NG, Docker e mais)<br>
-Aplicação prática com cenários reais<br>
+📡 Primeira parte do Módulo 2 do Curso de Infraestrutura de Redes de Computadores!
 
-💡 Por que este curso é diferente? Aqui não é só teoria — você vai colocar a mão na massa desde o início, usando simuladores, emuladores e ambientes reais. Ideal para quem está começando e também para quem já atua, mas quer se atualizar.
+Neste vídeo, vamos explorar os modelos de referência das redes, entender como as mensagens são transmitidas e também conhecer os principais tipos de ciberataques que ameaçam a comunicação digital.
 
-## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
-Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
+✅ O que você vai aprender neste vídeo:
 
-## **🚀 Apresentação do Curso de Infraestrutura de Redes de Computadores | Bora para Prática | Vaamonde**
+Modelo OSI (Open System Interconnection) e Modelo TCP/IP (Transmission Control Protocol).<br>
+PDU (Protocol Data Unit) e sua importância na transmissão de dados.<br>
+Principais ciberataques em redes de computadores:<br>
+Exploit (explorar vulnerabilidades)<br>
+Phishing (enganar usuários)<br>
+Hijacking (sequestro de sessão)<br>
+DoS (negação de serviço)<br>
+Man-in-the-Middle (homem do meio)<br>
+Spoofing (falsificação)<br>
+Sniffing (captura de tráfego)<br>
+Encapsulamento vs. Descapsulamento (como os dados são preparados e lidos na rede).<br>
+Comunicação das Mensagens em Rede: Segmentação, Multiplexação (MUX) e Demultiplexação (DEMUX).<br>
+Padrão Ethernet IEEE 802.3 nas redes locais.<br>
 
-📅 Este vídeo é apenas a apresentação. Acompanhe a playlist completa e já se inscreva para não perder as próximas aulas.
-
-Capítulos do vídeo:<br>
-00:00 - Apresentação do Curso<br>
-02:48 - Conhecendo o Projeto no Github<br>
-03:30 - Repositório do Curso de Infraestrutura<br>
-04:30 - Material em PDF do Curso<br>
-06:50 - Início da Apresentação do Curso<br>
-11:30 - Usando ChatGPT<br>
-25:00 - Entendo o Conteúdo do Curso<br>
-28:20 - Vantagens de Fazer o Curso<br>
-31:20 - O que você vai aprender no Curso<br>
-32:48 - Como estudar para esse Curso<br>
-35:10 - Finalização e Conclusão<br>
-
-[![Apresentação do Curso](http://img.youtube.com/vi/wCInvkUjAjY/0.jpg)](https://www.youtube.com/watch?v=wCInvkUjAjY "Apresentação do Curso")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=wCInvkUjAjY
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-00.pdf
-
-# Início do Módulo 01 - Introdução a Redes de Computadores - Etapa 01
-
-## **📡 Porte, Tipos e Componentes da Infraestrutura de Redes de Computadores | Módulo 01 Aula 01**
-
-🔌 Nesta primeira aula do Curso de Infraestrutura de Redes de Computadores, vamos explorar conceitos fundamentais que todo profissional de TI precisa dominar para entender como uma rede é projetada, estruturada e mantida.
-
-✅ O que você vai aprender neste vídeo:<br>
-Porte da Infraestrutura de Redes: Redes Residenciais, SOHO (Small Office/Home Office), Redes de Médio e Grande Porte.<br>
-Tipos de Infraestrutura de Redes: Workgroup e Cliente-Servidor.<br>
-Tabela Resumida do Porte de Rede para consulta rápida.<br>
-Componentes da Infraestrutura de Redes: Dispositivos Finais, Interconexões de Rede, Dispositivos de Meio, Serviços e Processos de Rede.<br>
-Diferença entre Passivo de Rede (meio físico) e Ativo de Rede (dispositivos de meio).<br>
-Dispositivos Finais (Endpoints) e seu papel em uma rede.<br>
-
-💡 Ao final desta aula, você terá uma visão clara e prática sobre como cada elemento contribui para o funcionamento de uma rede, desde o cabo que transporta os dados até os equipamentos que processam as informações.
+💡 Esse é o primeiro vídeo do Módulo 2, dividido em 4 partes, para você absorver o conteúdo de forma prática e organizada.
 
 #01_ Dicas de Palavras (Frases) para o Prompt do Chacha (ChatGPT) - Vava #BoraParaPrática 
 
@@ -79,131 +50,147 @@ H) Comparação Lúdica (objetiva) sobre...
 ```
 
 Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 01<br>
-02:20 - Utilizando o ChatGPT<br>
-10:00 - Início da Apresentação Aula 01<br>
-11:50 - Porte da Infraestrutura de Redes<br>
-21:20 - Tipos de Infraestrutura de Redes<br>
-24:44 - Tabela Resumida de Infraestrutura<br>
-30:30 - Componentes da Infraestrutura<br>
-34:05 - Passivos e Ativos de Redes<br>
-37:10 - Dispositivos Finais (Endpoints)<br>
-38:05 - Finalização e Conclusão<br>
+00:00 - Apresentação da Aula 05<br>
+05:35 - Utilizando o ChatGPT<br>
+06:10 - Início da Apresentação Aula 05<br>
+07:10 - Introdução ao Modelo OSI TCP e PDU<br>
+10:18 - Camadas do Modelo OSI e Segurança<br>
+24:15 - Comparativo Modelo OSI e TCP<br>
+30:00 - Entendendo a PDU no Modelo TCP<br>
+36:05 - Encapsulamento e Descapsulamento<br>
+41:40 - Segmentação Multiplexação Demultiplexação<br>
+43:55 - Protocolo Ethernet 802.3<br>
+50:10 - Finalização e Conclusão<br>
 
-[![Módulo 01 Aula 01](http://img.youtube.com/vi/mKei1YHS67g/0.jpg)](https://www.youtube.com/watch?v=mKei1YHS67g "Módulo 01 Aula 01")
+[![Módulo 02 Aula 05](http://img.youtube.com/vi/VO3XC15iWCU/0.jpg)](https://www.youtube.com/watch?v=VO3XC15iWCU "Módulo 02 Aula 05")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=mKei1YHS67g
+Link da vídeo aula: https://www.youtube.com/watch?v=VO3XC15iWCU
 
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
 
-## **🌐 LAN, WAN, Intranet, Extranet, Internet, Topologia Física e Lógica de Redes  | Módulo 01 Aula 02**
+## **Camada Física Cabeamento de Cobre, Fibra Óptica, Wi-Fi,  WLAN Celular GSM, LTE | Módulo 02 Aula 06**
 
-🚀 Nessa segunda parte da Apresentação do Curso de Infraestrutura de Redes de Computadores
-Nesta aula, vamos aprofundar o entendimento sobre os principais tipos de redes, suas topologias e as conexões mais comuns utilizadas tanto em ambientes residenciais quanto corporativos.
+📡 Segunda parte do Módulo 2 do Curso de Infraestrutura de Redes de Computadores!
 
-✅ O que você vai aprender neste vídeo:<br>
-LAN (Local Area Network) e WAN (Wide Area Network).<br>
-Diferenças entre Intranet, Extranet e Internet.<br>
-Tabela Resumida comparando LAN, WAN, Intranet, Extranet e Internet.<br>
-Topologia Física e Topologia Lógica de redes.<br>
-Introdução ao EdrawMax Wondershare para criação de diagramas de redes online.<br>
-Tipos de Topologia Física em LAN/WAN e tabela comparativa.<br>
-Tipos de conexões com a Internet (residencial e corporativa).<br>
-Tabela comparativa: Tecnologias WAN residencial vs. corporativa.<br>
-
-💡 Com essa aula, você vai consolidar conceitos essenciais para entender a estrutura e funcionamento das redes de computadores, além de conhecer ferramentas visuais que auxiliam na documentação de projetos.
-
-Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 02<br>
-
-[![Módulo 01 Aula 02](http://img.youtube.com/vi/3e5XGAUtxbs/0.jpg)](https://www.youtube.com/watch?v=3e5XGAUtxbs "Módulo 01 Aula 02")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=3e5XGAUtxbs
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
-
-## **🔄 Comunicação e Transmissão em Redes, Analógico, Digital e Tipos e Métodos | Módulo 01 Aula 03**
-
-📡 Nesta terceira parte da apresentação do Curso de Infraestrutura de Redes de Computadores, você vai entender como acontece a comunicação dentro das redes, desde os sinais até os métodos de transmissão e os tipos de comunicação utilizados em diferentes cenários.
-
-✅ O que você vai aprender neste vídeo:<br>
-Diferença entre Conversão Analógico-Digital (ADC) e Digital-Analógico (DAC).<br>
-Meios de Transmissão: analógica e digital.<br>
-Métodos de transmissão: Paralelo e Serial.<br>
-Comunicação Síncrona (ex.: SDSL, HDSL) e Comunicação Assíncrona (ex.: ADSL).<br>
-Tipos de Transmissão de Redes de Computadores.<br>
-Estrutura e importância dos Cabeçalhos das Mensagens em redes.<br>
-Como ocorre a Comunicação das Mensagens dentro de uma rede.<br>
-Tipos de Comunicação em Redes de Computadores (com tabela resumida para fixação).<br>
-
-💡 Ao final, você terá uma visão clara de como os dados trafegam nas redes e quais métodos são usados para garantir que a informação chegue de forma correta e eficiente.
-
-Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 03<br>
-
-[![Módulo 01 Aula 03](http://img.youtube.com/vi/AP3c68yTcT0/0.jpg)](https://www.youtube.com/watch?v=AP3c68yTcT0 "Módulo 01 Aula 03")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=AP3c68yTcT0
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
-
-## **🌍 Arquiteturas de Rede em Circuito e Pacotes, IoT, IoE, IA e Futuro da Internet | Módulo 01 Aula 04 - FIM**
-
-🚀 Nessa quarta parte da apresentação do Curso de Infraestrutura de Redes de Computadores
-Nesta aula, vamos avançar do modelo tradicional de comunicação até as arquiteturas modernas que moldam o futuro da Internet, explorando conceitos fundamentais e tendências atuais no Brasil e no mundo.
-
-✅ O que você vai aprender neste vídeo:<br>
-Comunicação Baseada em Circuito (Telefonia) vs. Comunicação Baseada em Pacote (Redes TCP/IP).<br>
-Arquiteturas de Rede com: Tolerância a falhas Escalabilidade<br>
-Qualidade de Serviço (QoS, ToS, DS, CoS)<br>
-Segurança Física e Lógica (PSI e LGPD)<br>
-Sem Convergência vs. Com Convergência<br>
-Multivendor (redes com diferentes fabricantes).<br>
-Tecnologias emergentes: IoT (Internet das Coisas), IoE (Internet de Todas as Coisas), M2M (Machine to Machine), AI (Artificial Intelligence)<br>
-Futuro da Internet: Gráfico do ChatGPT (21/01/2025).<br>
-Uso da Internet no Brasil – dados do IX.br (08/08/2025).<br>
-Tendências do Uso da Internet no Brasil (IX.br).<br>
-
-💡 Com essa aula, você vai entender como as redes evoluíram da telefonia até a inteligência artificial, e como isso impacta diretamente no uso e nas tendências da Internet no Brasil e no mundo.
-
-Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 04<br>
-
-[![Módulo 01 Aula 04](http://img.youtube.com/vi/KDg0yQ2BJGU/0.jpg)](https://www.youtube.com/watch?v=KDg0yQ2BJGU "Módulo 01 Aula 04")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=KDg0yQ2BJGU
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
-
-# Início do Módulo 02 - Introdução a Redes de Computadores - Etapa 02
-
-## **📡 Modelo OSI, TCP, IP, PDU, Ciberataques, Ethernet, Encapsulamento, Segmentação | Módulo 02 Aula 05**
-
-Neste vídeo, vamos explorar os modelos de referência das redes, entender como as mensagens são transmitidas e também conhecer os principais tipos de ciberataques que ameaçam a comunicação digital.
+Neste vídeo, vamos explorar os principais meios de transmissão usados nas redes modernas — desde o cabeamento estruturado até as conexões sem fio que movem o mundo atual.
 
 ✅ O que você vai aprender neste vídeo:
 
-Modelo OSI (Open System Interconnection) e Modelo TCP/IP (Transmission Control Protocol).
-PDU (Protocol Data Unit) e sua importância na transmissão de dados.
-Principais ciberataques em redes de computadores:
-Exploit (explorar vulnerabilidades)
-Phishing (enganar usuários)
-Hijacking (sequestro de sessão)
-DoS (negação de serviço)
-Man-in-the-Middle (homem do meio)
-Spoofing (falsificação)
-Sniffing (captura de tráfego)
-Encapsulamento vs. Descapsulamento (como os dados são preparados e lidos na rede).
-Comunicação das Mensagens em Rede: Segmentação, Multiplexação (MUX) e Demultiplexação (DEMUX).
-Padrão Ethernet IEEE 802.3 nas redes locais.
+Cabeamento de Cobre (Copper) para redes de computadores.<br>
+Evolução do cabeamento de cobre nas redes locais (LAN).<br>
+Fibra Óptica aplicada em redes de computadores (LAN).<br>
+Diferenças entre Fibra Multimodo (MM) e Fibra Monomodo (SM).<br>
+A importância da Fibra Óptica nas comunicações atuais.<br>
+Conexões sem-fio (LAN e WAN).<br>
+Papel da rede celular nas comunicações modernas.<br>
+WLAN (Wireless LAN) – redes locais sem fio.<br>
+Tecnologia IEEE 802.11: frequência, canais, velocidade (Mbit/s e MB/s) e alcance.<br>
+Novo padrão Wi-Fi e a mudança na nomenclatura do WLAN.<br>
 
-💡 Esse é o primeiro vídeo do Módulo 2, dividido em 4 partes, para você absorver o conteúdo de forma prática e organizada.
+💡 Essa aula mostra como os diferentes meios de transmissão — cabeados e sem fio — sustentam a infraestrutura das redes, destacando sua evolução e importância no presente e no futuro da conectividade.
 
 Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 05<br>
+00:00 - Apresentação da Aula 06<br>
+01:00 - Cabeamento de Cobre (Copper)<br>
+04:50 - Tabela Comparativa dos Tipos de Cabos<br>
+09:45 - Evolução do Cabeamento Metálico<br>
+13:30 - Cabeamento de Fibra Óptica<br>
+18:05 - Fibra Óptica Multimodo e Monomodo<br>
+20:55 - Importância da Fibra Óptica no Mundo<br>
+24:25 - Conexão Sem-Fio Wireless WiFi 5G<br>
+28:10 - Importância da Rede de Celular no Brasil<br>
+29:35 - Rede Sem-Fio Local IEEE 802.11<br>
+31:50 - Tabela Resumida Tecnologias Sem-Fio 802.11<br>
+38:45 - Mudança da Nomenclatura Rede Sem-Fio<br>
+43:15 - Finalização e Conclusão<br>
 
-[![Módulo 01 Aula 05](http://img.youtube.com/vi/VO3XC15iWCU/0.jpg)](https://www.youtube.com/watch?v=VO3XC15iWCU "Módulo 02 Aula 05")
+[![Módulo 02 Aula 06](http://img.youtube.com/vi/0cCWv4DMJaY/0.jpg)](https://www.youtube.com/watch?v=0cCWv4DMJaY "Módulo 02 Aula 06")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=VO3XC15iWCU
+Link da vídeo aula: https://www.youtube.com/watch?v=0cCWv4DMJaY
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
+
+## **💻 NIC, Largura de Banda, Domínios de Rede, CSMA/CD, MAC e IP Address IPv4, IPv6| Módulo 02 Aula 07**
+
+📡 Terceira parte do Módulo 2 do Curso de Infraestrutura de Redes de Computadores!
+
+Neste vídeo, vamos explorar os componentes essenciais que fazem a rede funcionar na prática, desde a interface de rede até os endereços que identificam cada dispositivo conectado.
+
+✅ O que você vai aprender neste vídeo:
+
+NIC (Network Interface Controller/Card) – Placa de rede e seu papel fundamental.<br>
+Tecnologia IEEE 802.3: nomenclatura, velocidade e meios de transmissão.<br>
+Porta de Rede e Interface de Rede.<br>
+Componentes básicos de uma infraestrutura de redes de computadores.<br>
+Diferença entre Domínio de Colisão e Domínio de Broadcast (Ethernet e IPv4).<br>
+Funcionamento do CSMA/CD (detecção de colisão – Ethernet) e CSMA/CA (prevenção de colisão – Wireless).<br>
+Diferença entre MAC Address e IP Address (IPv4 e IPv6).<br>
+Endereçamento IP: estático (Static) vs. dinâmico (Dynamic).<br>
+
+💡 Essa aula conecta a teoria com a prática, mostrando como os dispositivos realmente se comunicam na rede e como cada endereço e protocolo garante a organização do tráfego.
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 07<br>
+00:30 - NIC Placa Interface de Rede<br>
+05:20 - Tabela Resumida Tecnologias de Placa de Rede<br>
+09:45 - Diferenças de Porta e Interface de Rede<br>
+14:10 - Componentes de uma Infraestrutura de Rede<br>
+17:40 - Dispositivos de uma Infraestrutura de Rede<br>
+20:05 - Domínio de Colisão e de Broadcast IEEE 802.3<br>
+28:30 - CSMA CSMA-CD Ethernet CSMA-CA Wireless<br>
+34:55 - MAC Address e IPv4 IPv6 Address<br>
+41:00 - Endereço Estática e Dinâmico IPv4 e IPv6<br>
+45:30 - Finalização e Conclusão<br>
+
+[![Módulo 02 Aula 07](http://img.youtube.com/vi/WZs5m2T_6fU/0.jpg)](https://www.youtube.com/watch?v=WZs5m2T_6fU "Módulo 02 Aula 07")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=WZs5m2T_6fU
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
+
+## **🌐 Gateways, Modelos de Rede Hierárquica de 3 Camadas, Leaf-Spine, SDN, LB e HA | Módulo 02 Aula 08**
+
+📡 Quarta e última parte do Módulo 2 do Curso de Infraestrutura de Redes de Computadores!
+
+Nesta aula, vamos explorar desde os modelos hierárquicos clássicos de redes corporativas até as arquiteturas modernas usadas em data centers e ambientes em nuvem.
+
+✅ O que você vai aprender neste vídeo:
+
+Gateway: porta de entrada e saída entre redes.<br>
+Modelo de Rede Hierárquica de 3 Camadas (Médio e Grande Porte).<br>
+Fluxo de dados.<br>
+Velocidade dos links.<br>
+Caminhos redundantes.<br>
+Agregação de links.<br>
+Modelo de Rede de 2 Camadas (Collapsed Core) para médio porte.<br>
+Modelo de Rede VSS (Virtual Switching System).<br>
+Modelo de Rede Leaf-Spine (Espinha-Folha) – aplicado em Data Centers.<br>
+Modelo de Rede SDN (Software Defined Networking).<br>
+SDN Hardware Controller.<br>
+SDN Cloud Controller.<br>
+LB (Load Balancing – Balanceamento de Carga).<br>
+HA (High Availability – Alta Disponibilidade).<br>
+
+💡 Essa aula consolida o entendimento de arquiteturas de rede, mostrando como projetar infraestruturas resilientes, escaláveis e preparadas para as demandas atuais de data centers e ambientes em nuvem.
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 08<br>
+00:30 - Gateway - Ponte ou Porta de Entrada e Saída<br>
+04:35 - Modelo de Rede Hierárquica de 3 Camadas<br>
+09:10 - Fluxo de Dados na Rede Hierárquica<br>
+10:40 - Velocidade dos Links na Rede Hierárquica<br>
+13:45 - Caminhos Redundantes na Rede Hierárquica<br>
+15:35 - Agregação de Links na Rede Hierárquica<br>
+17:25 - Modelo de Rede de 2 Camadas Núcleo Colapsado<br>
+18:50 - Modelo de Rede VSS Switch Virtual<br>
+22:20 - Modelo de Rede Leaf-Spine Data Centers<br>
+24:40 - Modelo de Rede SDN Baseadas em Software<br>
+27:55 - SDN Hardware Controller SDN Cloud Controller<br>
+30:20 - LB Load Balanced - HA High Availability<br>
+32:30 - Finalização e Conclusão<br>
+
+[![Módulo 02 Aula 08](http://img.youtube.com/vi/lVtVQazyXyI/0.jpg)](https://www.youtube.com/watch?v=lVtVQazyXyI "Módulo 02 Aula 08")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=lVtVQazyXyI
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
