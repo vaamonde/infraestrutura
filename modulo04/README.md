@@ -7,63 +7,32 @@
 🐙 GitHub: github.com/vaamonde<br>
 📷 Instagram: instagram.com/procedimentoem<br>
 
-💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE<br>
-💰 Chave PIX do projeto: robsonvaamonde@gmail.com
-
-📡 Bem-vindo ao Curso de Infraestrutura de Redes de Computadores!Se você quer entender desde os fundamentos até as tecnologias mais usadas no mercado, este é o ponto de partida. 
-
-Com mais de 25 anos de experiência em projetos e consultoria para empresas e instituições, vou te guiar passo a passo no universo das redes.
-
-✅ O que você vai encontrar neste curso:<br>
-Conceitos essenciais de redes (LAN, WAN, VLAN, WLAN, etc.)<br>
-Tipos de topologias físicas e lógicas<br>
-Equipamentos e componentes de redes (ativos e passivos)<br>
-Simulação e virtualização com ferramentas profissionais (Packet Tracer, GNS3, EVE-NG, Docker e mais)<br>
-Aplicação prática com cenários reais<br>
-
-💡 Por que este curso é diferente? Aqui não é só teoria — você vai colocar a mão na massa desde o início, usando simuladores, emuladores e ambientes reais. Ideal para quem está começando e também para quem já atua, mas quer se atualizar.
-
 ## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
 Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
 
-## **🚀 Apresentação do Curso de Infraestrutura de Redes de Computadores | Bora para Prática | Vaamonde**
+# Início do Módulo 04 - Introdução aos Roteadores (Routers) e Gateways de Redes de Computadores
 
-📅 Este vídeo é apenas a apresentação. Acompanhe a playlist completa e já se inscreva para não perder as próximas aulas.
+## **🌐 Gateway Router, PSTN, Dial-Up, Fax-Modem e Tecnologias xDSL, ADSL e SDSL |  Módulo 04 Aula 14**
 
-Capítulos do vídeo:<br>
-00:00 - Apresentação do Curso<br>
-02:48 - Conhecendo o Projeto no Github<br>
-03:30 - Repositório do Curso de Infraestrutura<br>
-04:30 - Material em PDF do Curso<br>
-06:50 - Início da Apresentação do Curso<br>
-11:30 - Usando ChatGPT<br>
-25:00 - Entendo o Conteúdo do Curso<br>
-28:20 - Vantagens de Fazer o Curso<br>
-31:20 - O que você vai aprender no Curso<br>
-32:48 - Como estudar para esse Curso<br>
-35:10 - Finalização e Conclusão<br>
+📡 Primeiro vídeo do Módulo 4 – Routing do Curso de Infraestrutura de Redes de Computadores!
 
-[![Apresentação do Curso](http://img.youtube.com/vi/wCInvkUjAjY/0.jpg)](https://www.youtube.com/watch?v=wCInvkUjAjY "Apresentação do Curso")
+Nesta aula, você vai entender os primeiros passos do roteamento de saída e as tecnologias de acesso que marcaram a evolução da Internet residencial e corporativa.
 
-Link da vídeo aula: https://www.youtube.com/watch?v=wCInvkUjAjY
+✅ O que você vai aprender neste vídeo:
 
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-00.pdf
+Gateway Router – ponte de ligação e roteamento de saída (Etapas 01 e 02).<br>
+Fax-Modem (Modulador/Demodulador) – interno e externo:<br>
+Conexão discada Dial-Up.<br>
+Rede PSTN (Public Switched Telephone Network) – comutação por circuito, velocidade de 56 Kbps.<br>
+Diagrama de conexão (RJ-11 e cabo CCI 1 par).<br>
+Tecnologias xDSL (Digital Subscriber Line):<br>
+ADSL (Asymmetric DSL).<br>
+SDSL (Symmetric ou Single-Line High-Bit-Rate DSL).<br>
+Cable Modem (Community Antenna Television).<br>
+Diagrama ADSL com velocidades típicas (8 Mbps download / 1 Mbps upload).<br>
+Tabela comparativa das velocidades das tecnologias xDSL.<br>
 
-# Início do Módulo 01 - Introdução a Redes de Computadores - Etapa 01
-
-## **📡 Porte, Tipos e Componentes da Infraestrutura de Redes de Computadores | Módulo 01 Aula 01**
-
-🔌 Nesta primeira aula do Curso de Infraestrutura de Redes de Computadores, vamos explorar conceitos fundamentais que todo profissional de TI precisa dominar para entender como uma rede é projetada, estruturada e mantida.
-
-✅ O que você vai aprender neste vídeo:<br>
-Porte da Infraestrutura de Redes: Redes Residenciais, SOHO (Small Office/Home Office), Redes de Médio e Grande Porte.<br>
-Tipos de Infraestrutura de Redes: Workgroup e Cliente-Servidor.<br>
-Tabela Resumida do Porte de Rede para consulta rápida.<br>
-Componentes da Infraestrutura de Redes: Dispositivos Finais, Interconexões de Rede, Dispositivos de Meio, Serviços e Processos de Rede.<br>
-Diferença entre Passivo de Rede (meio físico) e Ativo de Rede (dispositivos de meio).<br>
-Dispositivos Finais (Endpoints) e seu papel em uma rede.<br>
-
-💡 Ao final desta aula, você terá uma visão clara e prática sobre como cada elemento contribui para o funcionamento de uma rede, desde o cabo que transporta os dados até os equipamentos que processam as informações.
+💡 Essa aula mostra como os primeiros métodos de acesso — do fax-modem ao ADSL — abriram caminho para a infraestrutura de rede que usamos hoje.
 
 #01_ Dicas de Palavras (Frases) para o Prompt do Chacha (ChatGPT) - Vava #BoraParaPrática 
 
@@ -79,131 +48,179 @@ H) Comparação Lúdica (objetiva) sobre...
 ```
 
 Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 01<br>
-02:20 - Utilizando o ChatGPT<br>
-10:00 - Início da Apresentação Aula 01<br>
-11:50 - Porte da Infraestrutura de Redes<br>
-21:20 - Tipos de Infraestrutura de Redes<br>
-24:44 - Tabela Resumida de Infraestrutura<br>
-30:30 - Componentes da Infraestrutura<br>
-34:05 - Passivos e Ativos de Redes<br>
-37:10 - Dispositivos Finais (Endpoints)<br>
-38:05 - Finalização e Conclusão<br>
+00:00 - Apresentação da Aula 14<br>
+06:35 - Utilizando o ChatGPT<br>
+07:35 - Gateway Router Roteamento de Saída<br>
+11:54 - Inter-VLAN Routing e Switch Layer 3 Router<br>
+16:42 - Fax-Modem Dial-Up PSTN Linha Discada Internet<br>
+19:30 - Fax-Modem Interno Placas ISA e PCI<br>
+21:56 - Diagrama de Conexão Fax-Modem RJ-11<br>
+24:33 - Topologia PSTN Comutação por Circuito 56Kbps<br>
+28:30 - ADSL SDSL Cable Modem Redes Síncronas e Assíncronas<br>
+35:02 - Diagrama de Conexão ADSL e SDSL PSTN<br>
+38:53 - Tabela Resumida Velocidades xDSL<br>
+45:34 - Finalização e Conclusão<br>
 
-[![Módulo 01 Aula 01](http://img.youtube.com/vi/mKei1YHS67g/0.jpg)](https://www.youtube.com/watch?v=mKei1YHS67g "Módulo 01 Aula 01")
+[![Módulo 04 Aula 14](http://img.youtube.com/vi/wE7-CK-cqXU/0.jpg)](https://www.youtube.com/watch?v=wE7-CK-cqXU "Módulo 04 Aula 14")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=mKei1YHS67g
+Link da vídeo aula: https://www.youtube.com/watch?v=wE7-CK-cqXU
 
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-04.pdf
 
-## **🌐 LAN, WAN, Intranet, Extranet, Internet, Topologia Física e Lógica de Redes  | Módulo 01 Aula 02**
+## **🌐 Modem CSU/DSU, DCE/DTE, Frame Relay, GPON, MPLS, VPLS e Metro Ethernet |  Módulo 04 Aula 15**
 
-🚀 Nessa segunda parte da Apresentação do Curso de Infraestrutura de Redes de Computadores
-Nesta aula, vamos aprofundar o entendimento sobre os principais tipos de redes, suas topologias e as conexões mais comuns utilizadas tanto em ambientes residenciais quanto corporativos.
+📡 Segundo vídeo do Módulo 4 – Routing do Curso de Infraestrutura de Redes de Computadores!
 
-✅ O que você vai aprender neste vídeo:<br>
-LAN (Local Area Network) e WAN (Wide Area Network).<br>
-Diferenças entre Intranet, Extranet e Internet.<br>
-Tabela Resumida comparando LAN, WAN, Intranet, Extranet e Internet.<br>
-Topologia Física e Topologia Lógica de redes.<br>
-Introdução ao EdrawMax Wondershare para criação de diagramas de redes online.<br>
-Tipos de Topologia Física em LAN/WAN e tabela comparativa.<br>
-Tipos de conexões com a Internet (residencial e corporativa).<br>
-Tabela comparativa: Tecnologias WAN residencial vs. corporativa.<br>
+Nesta aula, vamos explorar as tecnologias WAN que possibilitaram e ainda sustentam conexões de longa distância, desde os primeiros padrões seriais até as soluções de alta capacidade atuais.
 
-💡 Com essa aula, você vai consolidar conceitos essenciais para entender a estrutura e funcionamento das redes de computadores, além de conhecer ferramentas visuais que auxiliam na documentação de projetos.
+✅ O que você vai aprender neste vídeo:
+CSU/DSU (Channel Service Unit / Data Service Unit).
+DCE/DTE (Data Communications Equipment / Data Terminal Equipment).
+Cabo Serial: padrões V.35, X.21, RS-232 e RS-499.
+Diferença entre plugue fêmea DCE e macho DTE.
+Velocidades T1 (1.544 Mbps) e T3 (44.736 Mbps).
+Frame Relay – sucessor do X.25, usa a rede ATM (Asynchronous Transfer Mode) com velocidades de até 2 Mbps.
+Tabela comparativa: velocidades das tecnologias WAN (Frame Relay e Link Privado).
+Topologias WAN Frame Relay:
+DLCIs (Data Link Connection Identifier).
+Point-to-Point (PTP).
+Hub-and-Spoke.
+GPON/ONU (Gigabit Passive Optical Network / Optical Network Unit):
+GPON – arquitetura de rede óptica passiva.
+OLT (Optical Line Terminal) e ONT (Optical Network Terminal).
+Comparação da topologia GPON com o padrão Ethernet de 3 camadas.
+MPLS (Multiprotocol Label Switching) e VPLS (Virtual Private LAN Service).
+Metro Ethernet (Carrier Ethernet – MAN Metropolitan Area Network).
 
-Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 02<br>
-
-[![Módulo 01 Aula 02](http://img.youtube.com/vi/3e5XGAUtxbs/0.jpg)](https://www.youtube.com/watch?v=3e5XGAUtxbs "Módulo 01 Aula 02")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=3e5XGAUtxbs
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
-
-## **🔄 Comunicação e Transmissão em Redes, Analógico, Digital e Tipos e Métodos | Módulo 01 Aula 03**
-
-📡 Nesta terceira parte da apresentação do Curso de Infraestrutura de Redes de Computadores, você vai entender como acontece a comunicação dentro das redes, desde os sinais até os métodos de transmissão e os tipos de comunicação utilizados em diferentes cenários.
-
-✅ O que você vai aprender neste vídeo:<br>
-Diferença entre Conversão Analógico-Digital (ADC) e Digital-Analógico (DAC).<br>
-Meios de Transmissão: analógica e digital.<br>
-Métodos de transmissão: Paralelo e Serial.<br>
-Comunicação Síncrona (ex.: SDSL, HDSL) e Comunicação Assíncrona (ex.: ADSL).<br>
-Tipos de Transmissão de Redes de Computadores.<br>
-Estrutura e importância dos Cabeçalhos das Mensagens em redes.<br>
-Como ocorre a Comunicação das Mensagens dentro de uma rede.<br>
-Tipos de Comunicação em Redes de Computadores (com tabela resumida para fixação).<br>
-
-💡 Ao final, você terá uma visão clara de como os dados trafegam nas redes e quais métodos são usados para garantir que a informação chegue de forma correta e eficiente.
+💡 Essa aula é essencial para entender como as redes WAN evoluíram — do cabeamento serial às soluções de alta velocidade baseadas em fibra, como GPON, MPLS e Metro Ethernet.
 
 Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 03<br>
+00:00 - Apresentação da Aula 15<br>
+00:45 - CSU DSU DCE DTE Router Enterprise<br>
+07:13 - Tabela de Cabos Seriais V35 DTE e DCE<br>
+09:57 - Cabo Serial V35 Small DCE e DTE<br>
+12:43 - Frame Relay X25 Rede ATM<br>
+16:35 - Tabela Resumida Tecnologias WAN LP<br>
+22:20 - Topologias WAN Frame Relay DLCIs e PTP<br>
+25:42 - Tecnologias PON GPON OLT ONU<br>
+29:30 - Topologias PON GPON ONU OLT ONT Fiber<br>
+33:30 - Comparação Topologia Ethernet e GPON<br>
+35:49 - Tecnologias MPLS e VPLS<br>
+39:10 - Tecnologia Metro Ethernet<br>
+41:10 - Finalização e Conclusão<br>
 
-[![Módulo 01 Aula 03](http://img.youtube.com/vi/AP3c68yTcT0/0.jpg)](https://www.youtube.com/watch?v=AP3c68yTcT0 "Módulo 01 Aula 03")
+[![Módulo 04 Aula 15](http://img.youtube.com/vi/1vmTesOpQ9Q/0.jpg)](https://www.youtube.com/watch?v=1vmTesOpQ9Q "Módulo 04 Aula 15")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=AP3c68yTcT0
+Link da vídeo aula: https://www.youtube.com/watch?v=1vmTesOpQ9Q
 
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-04.pdf
 
-## **🌍 Arquiteturas de Rede em Circuito e Pacotes, IoT, IoE, IA e Futuro da Internet | Módulo 01 Aula 04 - FIM**
+## **🚀 Routers ISR, SOHO, Cisco IOS-XE, Firewall, Equipamentos Enterprise Multivendor | Módulo 04 Aula 16**
 
-🚀 Nessa quarta parte da apresentação do Curso de Infraestrutura de Redes de Computadores
-Nesta aula, vamos avançar do modelo tradicional de comunicação até as arquiteturas modernas que moldam o futuro da Internet, explorando conceitos fundamentais e tendências atuais no Brasil e no mundo.
+📡 Terceiro vídeo do Módulo 4 – Routing do Curso de Infraestrutura de Redes de Computadores!
 
-✅ O que você vai aprender neste vídeo:<br>
-Comunicação Baseada em Circuito (Telefonia) vs. Comunicação Baseada em Pacote (Redes TCP/IP).<br>
-Arquiteturas de Rede com: Tolerância a falhas Escalabilidade<br>
-Qualidade de Serviço (QoS, ToS, DS, CoS)<br>
-Segurança Física e Lógica (PSI e LGPD)<br>
-Sem Convergência vs. Com Convergência<br>
-Multivendor (redes com diferentes fabricantes).<br>
-Tecnologias emergentes: IoT (Internet das Coisas), IoE (Internet de Todas as Coisas), M2M (Machine to Machine), AI (Artificial Intelligence)<br>
-Futuro da Internet: Gráfico do ChatGPT (21/01/2025).<br>
-Uso da Internet no Brasil – dados do IX.br (08/08/2025).<br>
-Tendências do Uso da Internet no Brasil (IX.br).<br>
-
-💡 Com essa aula, você vai entender como as redes evoluíram da telefonia até a inteligência artificial, e como isso impacta diretamente no uso e nas tendências da Internet no Brasil e no mundo.
-
-Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 04<br>
-
-[![Módulo 01 Aula 04](http://img.youtube.com/vi/KDg0yQ2BJGU/0.jpg)](https://www.youtube.com/watch?v=KDg0yQ2BJGU "Módulo 01 Aula 04")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=KDg0yQ2BJGU
-
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
-
-# Início do Módulo 02 - Introdução a Redes de Computadores - Etapa 02
-
-## **📡 Modelo OSI, TCP, IP, PDU, Ciberataques, Ethernet, Encapsulamento, Segmentação | Módulo 02 Aula 05**
-
-Neste vídeo, vamos explorar os modelos de referência das redes, entender como as mensagens são transmitidas e também conhecer os principais tipos de ciberataques que ameaçam a comunicação digital.
+Nesta aula, vamos conhecer os principais modelos de roteadores e firewalls usados em pequenas, médias e grandes empresas, abordando gerações, sistemas operacionais e opções de fabricantes.
 
 ✅ O que você vai aprender neste vídeo:
 
-Modelo OSI (Open System Interconnection) e Modelo TCP/IP (Transmission Control Protocol).
-PDU (Protocol Data Unit) e sua importância na transmissão de dados.
-Principais ciberataques em redes de computadores:
-Exploit (explorar vulnerabilidades)
-Phishing (enganar usuários)
-Hijacking (sequestro de sessão)
-DoS (negação de serviço)
-Man-in-the-Middle (homem do meio)
-Spoofing (falsificação)
-Sniffing (captura de tráfego)
-Encapsulamento vs. Descapsulamento (como os dados são preparados e lidos na rede).
-Comunicação das Mensagens em Rede: Segmentação, Multiplexação (MUX) e Demultiplexação (DEMUX).
-Padrão Ethernet IEEE 802.3 nas redes locais.
+Router ISR SOHO (Integrated Service Routers – Small Office/Home Office): soluções para escritórios e ambientes domésticos.<br>
+Routers Small e Enterprise (Pequenas e Grandes Empresas) G2 (Generation 2) – Séries 800, 1900, 2900 e 3900 (descontinuadas).<br>
+Routers Small e Enterprise com Cisco IOS-XE – Séries 4451, 4431 e 4300.<br>
+Routers de outros fabricantes para pequenas e grandes empresas.<br>
+Router Firewall Small e Enterprise:<br>
+Cisco ASA (Adaptive Security Appliance) – Série Firepower 5505, 5510, 5512 e 5515 (descontinuadas).<br>
+Cisco Secure Firewall – Séries 1000, 2000, 4000 e 9000.<br>
+Firewalls e roteadores de outros fabricantes.<br>
 
-💡 Esse é o primeiro vídeo do Módulo 2, dividido em 4 partes, para você absorver o conteúdo de forma prática e organizada.
+💡 Essa aula é fundamental para quem deseja entender a evolução das soluções de roteamento e segurança, desde modelos SOHO até equipamentos enterprise com alta capacidade e recursos de firewall.
 
 Capítulos do vídeo:<br>
-00:00 - Apresentação da Aula 05<br>
+00:00 - Apresentação da Aula 16<br>
+02:20 - Roteadores ISR SOHO<br>
+08:35 - Topologia dos Roteadores ISR SOHO<br>
+15:30 - Roteadores Cisco Small Enterprise ISR<br>
+20:50 - Router Cisco ISR IOS-XE 4451 4431 E 4300<br>
+23:11 - Router Multivendor Small Enterprise<br>
+26:56 - Topologias Básicas de Redes com Routers<br>
+31:21 - Router Firewall Small Enterprise Business<br>
+35:27 - Firewall Cisco Secure 1000 2000 4000 e 9000<br>
+40:27 - Firewall Multivendor Small Enterprise<br>
+45:05 - Finalização e Conclusão<br>
 
-[![Módulo 01 Aula 05](http://img.youtube.com/vi/VO3XC15iWCU/0.jpg)](https://www.youtube.com/watch?v=VO3XC15iWCU "Módulo 02 Aula 05")
+[![Módulo 04 Aula 16](http://img.youtube.com/vi/UMV_d9GINq8/0.jpg)](https://www.youtube.com/watch?v=UMV_d9GINq8 "Módulo 04 Aula 16")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=VO3XC15iWCU
+Link da vídeo aula: https://www.youtube.com/watch?v=UMV_d9GINq8
 
-Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-04.pdf
+
+## **⚡ Routers Dual Power, RPS, Form Factors, Capacity Plane Router, Throughput | Módulo 04 Aula 17**
+
+📡 Quarto vídeo do Módulo 4 – Routing do Curso de Infraestrutura de Redes de Computadores!
+
+Nesta aula, vamos explorar os recursos de redundância e desempenho presentes nos routers corporativos, fundamentais para garantir alta disponibilidade e capacidade de processamento em redes de médio e grande porte.
+
+✅ O que você vai aprender neste vídeo:
+
+Router Dual Power – equipamentos com duas fontes de alimentação para maior confiabilidade.<br>
+RPS (Redundant Power System) – sistema de energia redundante.<br>
+Solução de RPS Unificada para ambientes enterprise.<br>
+Form Factors – diferentes configurações físicas dos routers.<br>
+Interfaces LAN, WAN e serviços disponíveis nos roteadores corporativos.<br>
+Conceitos de Router Capacity Plane e Throughput Real.<br>
+Forwarding Rate – taxa de encaminhamento de pacotes.<br>
+Capacity Plane em Routers Enterprise – planejamento de capacidade para alto desempenho.<br>
+
+💡 Essa aula mostra como escolher e dimensionar routers empresariais, garantindo redundância de energia, alta capacidade de switching/forwarding e interfaces adequadas para cada projeto de rede.
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 17<br>
+01:30 - Router Dual Power e RPS<br>
+04:00 - Solução de RPS Ubiquiti Unifi<br>
+07:08 - Form Factory Router<br>
+11:45 - Interfaces de LAN WAN e Serviços<br>
+14:27 - Tabela Resumida Capacity Plane Router<br>
+22:45 - Datasheet Router Ubiquiti Unifi UDM<br>
+27:20 - Finalização e Conclusão<br>
+
+[![Módulo 04 Aula 17](http://img.youtube.com/vi/GF_F9rBGwng/0.jpg)](https://www.youtube.com/watch?v=GF_F9rBGwng "Módulo 04 Aula 17")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=GF_F9rBGwng
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-04.pdf
+
+## **🔧 Gerenciamento de Routers: OOB/IB Console, CLI, GUI, Web-Gui e Gateway Padrão | Módulo 04 Aula 18**
+
+📡 Quinto e último vídeo do Módulo 4 – Routing do Curso de Infraestrutura de Redes de Computadores!
+
+Nesta aula, você vai aprender a gerenciar routers corporativos e SOHO, configurando conexões fora e dentro de banda, além de compreender como o roteador toma decisões de encaminhamento usando o Gateway Padrão.
+
+✅ O que você vai aprender neste vídeo:
+
+Conexão do Router Fora da Banda (Out-of-Band) com cabo console.<br>
+Gerenciamento de Routers Enterprise e SOHO:<br>
+Etapa 1 – Managed OOB (Out-of-Band) e IB (In-Band).<br>
+Etapa 2 – Managed OOB (Console) e Managed IB (IPv4 Address).<br>
+Etapa 3 – Managed CLI (Command-Line Interface) e GUI/Web-GUI (Interface Gráfica via Navegador).<br>
+Gateway Padrão:<br>
+Etapa 1 – Tomada de decisão de rotas.<br>
+Etapa 2 – Conexão Direta, Local e Padrão.<br>
+Etapa 3 – Rotas Remotas e Diretamente Conectadas.<br>
+
+💡 Essa aula fecha o Módulo 4 mostrando como configurar e administrar routers com segurança e eficiência, além de entender o processo de decisão de rotas dentro de uma rede corporativa.
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 18<br>
+00:40 - Conexão do Router OOB<br>
+04:58 - Gerenciamento do Router OOB e IB IPv4 e IPv6<br>
+08:15 - Gerenciamento do Router via Console e Acesso Remoto<br>
+10:00 - Gerenciamento do Router via CLI GUI ou Web-GUI<br>
+13:42 - Gateway Padrão e Decisão das Rotas<br>
+16:43 - Conexão Direta Rede Local e Rota Padrão<br>
+20:22 - Rotas Diretamente Conectada e Remotas<br>
+21:35 - Finalização e Conclusão<br>
+
+[![Módulo 04 Aula 18](http://img.youtube.com/vi/LoU9Izo8Vqg/0.jpg)](https://www.youtube.com/watch?v=LoU9Izo8Vqg "Módulo 04 Aula 18")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=LoU9Izo8Vqg
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-04.pdf

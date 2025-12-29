@@ -10,7 +10,10 @@
 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE<br>
 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
 
-# Início do Módulo 01 - Introdução a Redes de Computadores - Etapa 01
+## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
+Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
+
+# Início do Módulo 01 - Introdução à Infraestrutura de Redes de Computadores - Etapa-01
 
 ## **📡 Porte, Tipos e Componentes da Infraestrutura de Redes de Computadores | Módulo 01 Aula 01**
 
