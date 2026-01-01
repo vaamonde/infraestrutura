@@ -13,6 +13,24 @@
 ## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
 Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
 
+**OBSERVAÇÃO IMPORTANTE:** APÓS CONCLUIR TODOS OS VÍDEOS DESSE MÓDULO, COMPARTILHAR O SELO NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM, ETC) MARCANDO: ROBSON VAAMONDE COM AS HASHTAGS E COPIANDO O CONTEÚDO ABAIXO:
+
+LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo02.png
+
+Principais Tópicos de Aprendizagem – Módulo 02<br>
+Compreensão dos modelos de referência OSI e TCP/IP, suas camadas, funções e PDUs.<br>
+Identificação dos principais tipos de ataques cibernéticos associados às camadas do modelo OSI.<br>
+Entendimento dos processos de encapsulamento, descapsulamento, segmentação e multiplexação.<br>
+Conhecimento dos padrões Ethernet (IEEE 802.3) e fundamentos da comunicação em redes locais.<br>
+Análise dos meios de transmissão cabeados: cobre (categorias) e fibra óptica (MMF e SMF).<br>
+Introdução às tecnologias sem fio, redes celulares e padrões Wi-Fi (IEEE 802.11).<br>
+Reconhecimento dos dispositivos e componentes ativos e passivos da infraestrutura de redes.<br>
+Entendimento de endereçamento MAC e IP, domínios de colisão e broadcast.<br>
+Estudo dos modelos hierárquicos de rede e arquiteturas modernas (Collapsed Core, Leaf-Spine).<br>
+Introdução a conceitos avançados como SDN, alta disponibilidade, balanceamento de carga e escalabilidade<br>
+
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo02
+
 # Início do Módulo 02 - Introdução à Infraestrutura de Redes de Computadores - Etapa-02
 
 ## **📡 Modelo OSI, TCP, IP, PDU, Ciberataques, Ethernet, Encapsulamento, Segmentação | Módulo 02 Aula 05**

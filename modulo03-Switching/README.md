@@ -13,6 +13,24 @@
 ## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
 Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
 
+**OBSERVAÇÃO IMPORTANTE:** APÓS CONCLUIR TODOS OS VÍDEOS DESSE MÓDULO, COMPARTILHAR O SELO NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM, ETC) MARCANDO: ROBSON VAAMONDE COM AS HASHTAGS E COPIANDO O CONTEÚDO ABAIXO:
+
+LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo03.png
+
+Principais Tópicos de Aprendizagem – Módulo 03<br>
+Compreensão dos conceitos fundamentais de endereçamento IP (IPv4 e IPv6) em redes de computadores.<br>
+Identificação das diferenças entre endereçamento estático e dinâmico em ambientes de rede.<br>
+Entendimento da estrutura do IPv4 e IPv6, notação, representação e boas práticas.<br>
+Estudo dos conceitos de máscara de sub-rede, CIDR e VLSM aplicados ao planejamento de redes.<br>
+Introdução aos processos de segmentação lógica de redes (subnetting).<br>
+Compreensão do papel do gateway padrão e roteamento básico.<br>
+Análise do funcionamento dos serviços de rede DHCP, DNS e NAT.<br>
+Entendimento da comunicação entre redes locais e externas (LAN, WAN e Internet).<br>
+Reconhecimento dos impactos do endereçamento IP na performance, segurança e escalabilidade.<br>
+Aplicação prática dos conceitos de endereçamento no projeto e organização de redes corporativas.<br>
+
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo03
+
 # Início do Módulo 03 - Introdução aos Switches (Comutadores) de Redes de Computadores
 
 ## **🔗 Topologias de Rede Ethernet Barramento, Estrela, Bridge, Evolução dos Switches | Módulo 03 Aula 09**

@@ -13,6 +13,24 @@
 ## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
 Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
 
+**OBSERVAÇÃO IMPORTANTE:** APÓS CONCLUIR TODOS OS VÍDEOS DESSE MÓDULO, COMPARTILHAR O SELO NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM, ETC) MARCANDO: ROBSON VAAMONDE COM AS HASHTAGS E COPIANDO O CONTEÚDO ABAIXO:
+
+LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo01.png
+
+Principais Tópicos de Aprendizagem – Módulo 01<br>
+Compreensão dos conceitos fundamentais de Infraestrutura de Redes de Computadores.<br>
+Identificação dos diferentes portes de redes: domésticas, SOHO, corporativas e Internet.<br>
+Entendimento dos modelos de rede Workgroup e Cliente-Servidor.<br>
+Reconhecimento dos componentes da infraestrutura: dispositivos finais, meios, serviços e protocolos.<br>
+Classificação das redes quanto ao escopo: LAN, WAN, Intranet, Extranet e Internet.<br>
+Análise das topologias físicas e lógicas de rede e suas aplicações práticas.<br>
+Conhecimento dos principais meios e tecnologias de acesso à Internet residencial e corporativa.<br>
+Entendimento dos elementos e processos da comunicação de dados, voz e imagem.<br>
+Diferenciação entre métodos e tipos de transmissão e comunicação em redes.<br>
+Introdução às arquiteturas modernas de redes: convergência, escalabilidade, QoS e segurança.<br>
+
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo01
+
 # Início do Módulo 01 - Introdução à Infraestrutura de Redes de Computadores - Etapa-01
 
 ## **📡 Porte, Tipos e Componentes da Infraestrutura de Redes de Computadores | Módulo 01 Aula 01**

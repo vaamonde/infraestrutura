@@ -10,6 +10,24 @@
 ## **Playlist do YouTUBE com todos os Vídeos de Infraestrutura de Redes de Computadores:**
 Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkDRzGLMHrsM7
 
+**OBSERVAÇÃO IMPORTANTE:** APÓS CONCLUIR TODOS OS VÍDEOS DESSE MÓDULO, COMPARTILHAR O SELO NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM, ETC) MARCANDO: ROBSON VAAMONDE COM AS HASHTAGS E COPIANDO O CONTEÚDO ABAIXO:
+
+LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo03.png
+
+Principais Tópicos de Aprendizagem – Módulo 04<br>
+Compreensão do papel dos roteadores e gateways na interligação de redes locais e remotas.<br>
+Entendimento do funcionamento do gateway padrão e do processo de tomada de decisão de rotas.<br>
+Estudo dos tipos de acesso WAN: PSTN, xDSL, Cable Modem, links dedicados e Metro Ethernet.<br>
+Conhecimento das tecnologias WAN legadas e modernas: Frame Relay, ATM, MPLS, VPLS e GPON.<br>
+Análise das topologias WAN: ponto-a-ponto, hub-and-spoke, malha parcial e completa.<br>
+Identificação dos tipos de roteadores para ambientes SOHO, corporativos e enterprise.<br>
+Compreensão dos critérios de desempenho de roteadores: throughput, forwarding rate, CPU e memória.<br>
+Entendimento das interfaces LAN, WAN e de serviços, incluindo módulos e expansões.<br>
+Introdução aos métodos de gerenciamento de roteadores: CLI, GUI, In-Band e Out-of-Band.<br>
+Aplicação dos conceitos de roteamento visando disponibilidade, escalabilidade e segurança da rede.<br>
+
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo04
+
 # Início do Módulo 04 - Introdução aos Roteadores (Routers) e Gateways de Redes de Computadores
 
 ## **🌐 Gateway Router, PSTN, Dial-Up, Fax-Modem e Tecnologias xDSL, ADSL e SDSL |  Módulo 04 Aula 14**
