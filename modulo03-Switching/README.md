@@ -29,7 +29,7 @@ Entendimento da comunicação entre redes locais e externas (LAN, WAN e Internet
 Reconhecimento dos impactos do endereçamento IP na performance, segurança e escalabilidade.<br>
 Aplicação prática dos conceitos de endereçamento no projeto e organização de redes corporativas.<br>
 
-#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo03
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #switching #introducaoaswitching #modulo03
 
 # Início do Módulo 03 - Introdução aos Switches (Comutadores) de Redes de Computadores
 

@@ -12,7 +12,7 @@ Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkD
 
 **OBSERVAÇÃO IMPORTANTE:** APÓS CONCLUIR TODOS OS VÍDEOS DESSE MÓDULO, COMPARTILHAR O SELO NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM, ETC) MARCANDO: ROBSON VAAMONDE COM AS HASHTAGS E COPIANDO O CONTEÚDO ABAIXO:
 
-LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo03.png
+LINK DO SELO: https://github.com/vaamonde/infraestrutura/blob/main/selos/modulo04.png
 
 Principais Tópicos de Aprendizagem – Módulo 04<br>
 Compreensão do papel dos roteadores e gateways na interligação de redes locais e remotas.<br>
@@ -26,7 +26,7 @@ Entendimento das interfaces LAN, WAN e de serviços, incluindo módulos e expans
 Introdução aos métodos de gerenciamento de roteadores: CLI, GUI, In-Band e Out-of-Band.<br>
 Aplicação dos conceitos de roteamento visando disponibilidade, escalabilidade e segurança da rede.<br>
 
-#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #introducao #introducaoaredes #modulo04
+#boraparapratica #boraparaprática #vaamonde #robsonvaamonde #vavaaprova #procedimentosemti #infra #infraestrutura #infraestruturaderedes #routing #introducaoarouting #modulo04
 
 # Início do Módulo 04 - Introdução aos Roteadores (Routers) e Gateways de Redes de Computadores
 
