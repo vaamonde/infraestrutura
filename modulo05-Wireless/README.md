@@ -94,3 +94,62 @@ Capítulos do vídeo:<br>
 Link da vídeo aula: https://www.youtube.com/watch?v=bda_qNUlWyU
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
+
+## **📡 Wi-Fi Avançado MIMO, SU-MIMO, MU-MIMO, OFDM, OFDMA | Velocidade e Desempenho  | Módulo 5 Aula 20**
+
+📶 Segundo vídeo do Módulo 5 – Rede Sem-Fio (Wireless / Wi-Fi) do Curso de Infraestrutura de Redes de Computadores.
+
+Nesta aula avançamos nos mecanismos que aumentam desempenho, capacidade e eficiência das redes Wi-Fi modernas, analisando as principais tecnologias utilizadas nos padrões mais recentes do IEEE 802.11.
+
+O foco desta aula é entender como os equipamentos wireless conseguem transmitir múltiplos fluxos de dados simultaneamente, melhorando velocidade, estabilidade e suporte a múltiplos dispositivos conectados.
+
+📚 Conteúdo abordado
+
+📡 MIMO (Multiple-Input Multiple-Output)
+• Conceito e funcionamento do uso de múltiplas antenas
+• Classificação das implementações MIMO
+• Exemplos práticos de uso em redes Wi-Fi
+
+📡 Tipos de MIMO em redes sem-fio
+• SU-MIMO (Single-User MIMO) – comunicação com um único dispositivo
+• MU-MIMO (Multi-User MIMO) – comunicação simultânea com vários dispositivos
+• Tabela resumida comparando os tipos de MIMO
+
+📡 Técnicas utilizadas em MIMO
+• STTD (Space-Time Transmit Diversity)
+• SM (Spatial Multiplexing)
+• CT (Collaborative Transmission)
+• Tabela comparativa das técnicas
+
+📡 Tecnologias de modulação e multiplexação
+• OFDM (Orthogonal Frequency Division Multiplexing)
+• OFDMA (Orthogonal Frequency Division Multiple Access)
+• Comparação entre os dois métodos de transmissão
+
+🎓 Ao final desta aula você entenderá
+
+✔ Como múltiplas antenas aumentam a velocidade do Wi-Fi
+✔ Diferença entre SU-MIMO e MU-MIMO
+✔ Como o Wi-Fi consegue atender vários dispositivos simultaneamente
+✔ A importância do OFDM e OFDMA nas redes modernas (Wi-Fi 5, Wi-Fi 6 e Wi-Fi 7)
+
+Esses conceitos são fundamentais para compreender o desempenho das redes wireless atuais e futuras, especialmente em ambientes corporativos e de alta densidade de usuários.
+
+Capítulos do vídeo:
+00:00 - Continuação do Módulo 05 Wireless
+02:20 - MIMO Wireless
+03:35 - SU-MIMO e MU-MIMO Wireless
+06:25 - Tabela Resumo MU-MIMO SU-MIMO
+12:30 - STTD SM e CT Wireless
+16:17 - Tabela Resumo STTD SM e CT
+20:00 - Classificação do MIMO Wireless
+25:10 - Tabela Resumo Classificação MIMO
+29:10 - OFDM e OFDMA Wireless
+33:20 - Tabela Resumo OFDM e OFDMA
+42:45 - Finalização e Conclusões
+
+[![Módulo 05 Aula 20](http://img.youtube.com/vi/xJYS2dMxSlA/0.jpg)](https://www.youtube.com/watch?v=xJYS2dMxSlA "Módulo 05 Aula 20")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=xJYS2dMxSlA
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
