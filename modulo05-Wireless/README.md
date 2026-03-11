@@ -105,51 +105,116 @@ O foco desta aula é entender como os equipamentos wireless conseguem transmitir
 
 📚 Conteúdo abordado
 
-📡 MIMO (Multiple-Input Multiple-Output)
-• Conceito e funcionamento do uso de múltiplas antenas
-• Classificação das implementações MIMO
-• Exemplos práticos de uso em redes Wi-Fi
+📡 MIMO (Multiple-Input Multiple-Output)<br>
+• Conceito e funcionamento do uso de múltiplas antenas<br>
+• Classificação das implementações MIMO<br>
+• Exemplos práticos de uso em redes Wi-Fi<br>
 
-📡 Tipos de MIMO em redes sem-fio
-• SU-MIMO (Single-User MIMO) – comunicação com um único dispositivo
-• MU-MIMO (Multi-User MIMO) – comunicação simultânea com vários dispositivos
-• Tabela resumida comparando os tipos de MIMO
+📡 Tipos de MIMO em redes sem-fio<br>
+• SU-MIMO (Single-User MIMO) – comunicação com um único dispositivo<br>
+• MU-MIMO (Multi-User MIMO) – comunicação simultânea com vários dispositivos<br>
+• Tabela resumida comparando os tipos de MIMO<br>
 
-📡 Técnicas utilizadas em MIMO
-• STTD (Space-Time Transmit Diversity)
-• SM (Spatial Multiplexing)
-• CT (Collaborative Transmission)
-• Tabela comparativa das técnicas
+📡 Técnicas utilizadas em MIMO<br>
+• STTD (Space-Time Transmit Diversity)<br>
+• SM (Spatial Multiplexing)<br>
+• CT (Collaborative Transmission)<br>
+• Tabela comparativa das técnicas<br>
 
-📡 Tecnologias de modulação e multiplexação
-• OFDM (Orthogonal Frequency Division Multiplexing)
-• OFDMA (Orthogonal Frequency Division Multiple Access)
-• Comparação entre os dois métodos de transmissão
+📡 Tecnologias de modulação e multiplexação<br>
+• OFDM (Orthogonal Frequency Division Multiplexing)<br>
+• OFDMA (Orthogonal Frequency Division Multiple Access)<br>
+• Comparação entre os dois métodos de transmissão<br>
 
 🎓 Ao final desta aula você entenderá
 
-✔ Como múltiplas antenas aumentam a velocidade do Wi-Fi
-✔ Diferença entre SU-MIMO e MU-MIMO
-✔ Como o Wi-Fi consegue atender vários dispositivos simultaneamente
-✔ A importância do OFDM e OFDMA nas redes modernas (Wi-Fi 5, Wi-Fi 6 e Wi-Fi 7)
+✔ Como múltiplas antenas aumentam a velocidade do Wi-Fi<br>
+✔ Diferença entre SU-MIMO e MU-MIMO<br>
+✔ Como o Wi-Fi consegue atender vários dispositivos simultaneamente<br>
+✔ A importância do OFDM e OFDMA nas redes modernas (Wi-Fi 5, Wi-Fi 6 e Wi-Fi 7)<br>
 
 Esses conceitos são fundamentais para compreender o desempenho das redes wireless atuais e futuras, especialmente em ambientes corporativos e de alta densidade de usuários.
 
-Capítulos do vídeo:
-00:00 - Continuação do Módulo 05 Wireless
-02:20 - MIMO Wireless
-03:35 - SU-MIMO e MU-MIMO Wireless
-06:25 - Tabela Resumo MU-MIMO SU-MIMO
-12:30 - STTD SM e CT Wireless
-16:17 - Tabela Resumo STTD SM e CT
-20:00 - Classificação do MIMO Wireless
-25:10 - Tabela Resumo Classificação MIMO
-29:10 - OFDM e OFDMA Wireless
-33:20 - Tabela Resumo OFDM e OFDMA
-42:45 - Finalização e Conclusões
+Capítulos do vídeo:<br>
+00:00 - Continuação do Módulo 05 Wireless<br>
+02:20 - MIMO Wireless<br>
+03:35 - SU-MIMO e MU-MIMO Wireless<br>
+06:25 - Tabela Resumo MU-MIMO SU-MIMO<br>
+12:30 - STTD SM e CT Wireless<br>
+16:17 - Tabela Resumo STTD SM e CT<br>
+20:00 - Classificação do MIMO Wireless<br>
+25:10 - Tabela Resumo Classificação MIMO<br>
+29:10 - OFDM e OFDMA Wireless<br>
+33:20 - Tabela Resumo OFDM e OFDMA<br>
+42:45 - Finalização e Conclusões<br>
 
 [![Módulo 05 Aula 20](http://img.youtube.com/vi/xJYS2dMxSlA/0.jpg)](https://www.youtube.com/watch?v=xJYS2dMxSlA "Módulo 05 Aula 20")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=xJYS2dMxSlA
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
+
+
+## **📶 Wi-Fi PHY MCS Index  HT VHT HE e EHT | Como Calcular Velocidade Real do Wi-Fi  | Módulo 5 Aula 21**
+
+📡 Terceiro vídeo do Módulo 5 – Redes Sem-Fio (Wireless / Wi-Fi) do Curso de Infraestrutura de Redes de Computadores.
+
+Nesta aula vamos analisar como o Wi-Fi realmente calcula velocidade e desempenho, explorando os parâmetros da camada física (PHY) utilizados nos padrões modernos do IEEE 802.11.
+
+Você vai entender como tecnologias como MCS, HT, VHT, HE e EHT determinam a taxa de transmissão, eficiência espectral e desempenho das redes wireless modernas.
+
+📚 Conteúdo abordado
+
+📶 PHY – Physical Layer (Camada Física)<br>
+• Funcionamento nas camadas 1 e 2 do modelo OSI<br>
+• Parâmetros que influenciam transmissão wireless<br>
+• Tabela resumida da camada PHY no Wi-Fi<br>
+
+📶 MCS – Modulation and Coding Scheme<br>
+• Como o Wi-Fi define velocidade de transmissão<br>
+• Relação entre modulação, codificação e throughput<br>
+
+📶 Evolução das tecnologias PHY do Wi-Fi<br>
+• HT (High Throughput) – Wi-Fi 4<br>
+• VHT (Very High Throughput) – Wi-Fi 5<br>
+• HE (High Efficiency) – Wi-Fi 6<br>
+• EHT (Extremely High Throughput) – Wi-Fi 7<br>
+
+📶 Parâmetros importantes da transmissão Wi-Fi<br>
+• µs (microsegundos)<br>
+• GI – Guard Interval<br>
+• Influência no desempenho da rede<br>
+
+📶 Tabelas práticas de MCS
+
+Análise real de taxas de transmissão em diferentes dispositivos:
+
+✔ Tabela MCS – Celular 5 GHz<br>
+✔ Tabela MCS – Celular 2.4 GHz<br>
+✔ Tabela MCS – Notebook 5 GHz<br>
+
+Esses exemplos ajudam a entender por que dispositivos diferentes apresentam velocidades distintas mesmo conectados ao mesmo Access Point.
+
+💡 Ao final da aula você entenderá:
+
+✔ Como o Wi-Fi calcula a taxa de transmissão<br>
+✔ O impacto do MCS na velocidade da rede<br>
+✔ Diferenças entre gerações de PHY do Wi-Fi<br>
+✔ Por que celulares e notebooks possuem velocidades diferentes na mesma rede<br>
+
+Capítulos do vídeo:<br>
+00:00 - Continuação do Módulo 05 Wireless<br>
+01:40 - PHY Camada Física Wireless<br>
+07:10 - Tabela Resumida PHY Wireless<br>
+18:10 - Tabela MCS Index Wireless<br>
+22:02 - Tabela Resumida MCS Index Wireless<br>
+32:40 - Prática Tabela MCS Celular 5.0GHz<br>
+46:20 - Prática Tabela MCS Celular 2.4GHz<br>
+51:50 - Prática Tabela MCS Notebook 5.0GHz<br>
+59:00 - Finalização e Agradecimentos<br>
+
+[![Módulo 05 Aula 21](http://img.youtube.com/vi/dGvHFjEie5Y/0.jpg)](https://www.youtube.com/watch?v=dGvHFjEie5Y "Módulo 05 Aula 21")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=dGvHFjEie5Y
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
