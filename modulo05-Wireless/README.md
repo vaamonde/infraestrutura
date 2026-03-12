@@ -213,8 +213,8 @@ Capítulos do vídeo:<br>
 51:50 - Prática Tabela MCS Notebook 5.0GHz<br>
 59:00 - Finalização e Agradecimentos<br>
 
-[![Módulo 05 Aula 21](http://img.youtube.com/vi/dGvHFjEie5Y/0.jpg)](https://www.youtube.com/watch?v=dGvHFjEie5Y "Módulo 05 Aula 21")
+[![Módulo 05 Aula 21](http://img.youtube.com/vi/HeK0uRhN0Ko/0.jpg)](https://www.youtube.com/watch?v=HeK0uRhN0Ko "Módulo 05 Aula 21")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=dGvHFjEie5Y
+Link da vídeo aula: https://www.youtube.com/watch?v=HeK0uRhN0Ko
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
