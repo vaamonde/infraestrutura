@@ -218,3 +218,74 @@ Capítulos do vídeo:<br>
 Link da vídeo aula: https://www.youtube.com/watch?v=HeK0uRhN0Ko
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
+
+## **📡 CSMA/CA Airtime e Estrutura das Redes Wi-Fi BSS ESS SSID | Análise Prática WiFi | Módulo 5 Aula 22**
+
+📶 Quarto vídeo do Módulo 5 – Redes Sem-Fio (Wireless / Wi-Fi) do Curso de Infraestrutura de Redes de Computadores.
+
+Nesta aula você vai entender como os dispositivos Wi-Fi compartilham o meio de transmissão, evitando colisões e garantindo comunicação eficiente entre múltiplos dispositivos conectados ao mesmo Access Point.
+
+Também vamos analisar como a estrutura lógica das redes wireless é organizada, além de realizar análises práticas de desempenho e estrutura da rede Wi-Fi utilizando ferramentas profissionais.
+
+📚 Conteúdo abordado<br>
+📡 CSMA/CA – Carrier Sense Multiple Access with Collision Avoidance<br>
+• Mecanismo de acesso ao meio utilizado nas redes Wi-Fi<br>
+• Diferença em relação ao CSMA/CD das redes Ethernet<br>
+
+📡 Elementos do processo de comunicação Wi-Fi<br>
+• RTS (Request To Send)<br>
+• CTS (Clear To Send)<br>
+• NAV (Network Allocation Vector)<br>
+• ACK (Acknowledgment)<br>
+
+✔ Tabela resumida com os principais elementos da comunicação sem-fio.
+
+📡 Gerenciamento de tempo no Wi-Fi<br>
+• Airtime (Tempo de transmissão)<br>
+• ATF – Airtime Fairness (tempo justo entre dispositivos)<br>
+• TDMA – Time Division Multiple Access<br>
+
+✔ Tabela comparativa dos mecanismos de uso do tempo de transmissão.
+
+📡 Estrutura lógica das redes Wi-Fi<br>
+• BSS (Basic Service Set)<br>
+• ESS (Extended Service Set)<br>
+• SSID (Service Set Identifier)<br>
+• BSSID (Basic Service Set Identifier)<br>
+
+✔ Tabela resumida explicando a estrutura lógica das redes wireless.
+
+🔬 Análises práticas realizadas na aula<br>
+📊 Análise de Airtime da rede Wi-Fi<br>
+📊 Análise da estrutura lógica da rede sem-fio<br>
+📊 Uso da ferramenta WifiMan para diagnóstico de rede<br>
+📊 Uso da ferramenta InnerSpace para análise wireless<br>
+
+Essas análises mostram como interpretar o comportamento real de uma rede Wi-Fi, algo essencial para profissionais de infraestrutura e engenharia de redes.
+
+💡 Ao final desta aula você entenderá:
+
+✔ Como o Wi-Fi evita colisões no meio de transmissão<br>
+✔ Como funciona o compartilhamento de tempo no wireless<br>
+✔ Como identificar SSID, BSSID, BSS e ESS<br>
+✔ Como analisar desempenho e estrutura de redes Wi-Fi na prática<br>
+
+Capítulos do vídeo:<br>
+00:00 - Continuação do Módulo 05 Wireless<br>
+02:30 - CSMA/CA RTS CTS NAC e ACK Wireless<br>
+08:15 - Tabela Elementos de Comunicação WiFi<br>
+14:30 - Airtime ATF e TDMA Wireless<br>
+17:30 - Tabela Tempo de Transmissão WiFi<br>
+24:40 - Prática Análise de Airtime WiFi<br>
+29:30 - Topologia ESS BSS SSID BSSID WiFi<br>
+33:00 - Tabela Estrutura Lógica da Rede WiFi<br>
+41:15 - Prática Análise Estrutura Lógica WiFi<br>
+48:20 - Prática Análise WifiMan da Rede WiFi<br>
+51:40 - Prática Análise InnerSpace da Rede WiFi<br>
+53:20 - Finalização e Agradecimentos<br>
+
+[![Módulo 05 Aula 22](http://img.youtube.com/vi/cwH1tdVCikc/0.jpg)](https://www.youtube.com/watch?v=cwH1tdVCikc "Módulo 05 Aula 22")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=cwH1tdVCikc
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
