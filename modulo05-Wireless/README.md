@@ -219,7 +219,7 @@ Link da vídeo aula: https://www.youtube.com/watch?v=HeK0uRhN0Ko
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
 
-## **📡 CSMA/CA Airtime e Estrutura das Redes Wi-Fi BSS ESS SSID | Análise Prática WiFi | Módulo 5 Aula 22**
+## **📶 Wi-Fi CSMA/CA Airtime e Estrutura das Redes Wi-Fi BSS ESS SSID | Análise Prática WiFi | Módulo 5 Aula 22**
 
 📶 Quarto vídeo do Módulo 5 – Redes Sem-Fio (Wireless / Wi-Fi) do Curso de Infraestrutura de Redes de Computadores.
 
