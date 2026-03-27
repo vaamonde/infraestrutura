@@ -289,3 +289,54 @@ Capítulos do vídeo:<br>
 Link da vídeo aula: https://www.youtube.com/watch?v=cwH1tdVCikc
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
+
+### **📡 Qualidade do Wi-Fi: SNR, BER, Interferência e Hidden Node | Análise Prática Wireless | Módulo 5 Aula 23**
+
+📶 Quinto vídeo do Módulo 5 – Redes Sem-Fio (Wireless / Wi-Fi) do Curso de Infraestrutura de Redes de Computadores.
+
+Nesta aula, o foco é qualidade de sinal e problemas reais em redes Wi-Fi, abordando métricas fundamentais utilizadas na análise de desempenho e troubleshooting wireless.
+
+Você vai entender como fatores como ruído, interferência e erros de transmissão impactam diretamente a experiência do usuário em redes sem-fio.
+
+📚 Conteúdo abordado
+
+📶 Métricas de qualidade em redes Wi-Fi<br>
+• SNR (Signal-to-Noise Ratio) – relação sinal/ruído<br>
+• BER (Bit Error Rate) – taxa de erro de bits aceitáveis<br>
+• ISI (Inter Symbol Interference) – interferência entre símbolos<br>
+
+📶 Problemas comuns em redes wireless<br>
+• Hidden Node (Nó Oculto) – impacto na comunicação e colisões indiretas<br>
+
+✔ Tabela resumida com os principais conceitos de qualidade e problemas em redes Wi-Fi.
+
+🔬 Análises práticas realizadas
+
+📊 Testes reais utilizando:<br>
+• UDM Pro (UniFi Dream Machine Pro)<br>
+• Notebook<br>
+• Smartphone<br>
+
+📊 Ferramentas utilizadas:<br>
+• WiFiman<br>
+• Wavemon (Linux)<br>
+
+Esses testes mostram, na prática, como identificar problemas de sinal, interferência e desempenho em ambientes reais.
+
+💡 Ao final desta aula você entenderá:
+
+✔ Como medir a qualidade do sinal Wi-Fi<br>
+✔ O impacto do ruído e interferência na rede<br>
+✔ Como identificar problemas como Hidden Node<br>
+✔ Como utilizar ferramentas para análise e troubleshooting wireless<br>
+
+📌 Com este vídeo, você conclui o Módulo 5 – Redes Sem-Fio (Wireless / Wi-Fi), consolidando os principais conceitos de desempenho e análise de redes wireless modernas.
+
+Capítulos do vídeo:<br>
+00:00 - Continuação do Módulo 05 Wireless<br>
+
+[![Módulo 05 Aula 23](http://img.youtube.com/vi/ms-NI9pYsPM/0.jpg)](https://www.youtube.com/watch?v=ms-NI9pYsPM "Módulo 05 Aula 23")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=ms-NI9pYsPM
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-05.pdf
