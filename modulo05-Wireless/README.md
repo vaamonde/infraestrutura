@@ -334,6 +334,15 @@ Esses testes mostram, na prática, como identificar problemas de sinal, interfer
 
 Capítulos do vídeo:<br>
 00:00 - Continuação do Módulo 05 Wireless<br>
+02:30 - SNR Relação Sinal Ruído<br>
+06:15 - BER Taxa de Erro de Bits<br>
+09:20 - ISI Interferência entre Símbolos<br>
+13:00 - Hidden Node - Nó Oculto<br>
+16:05 - Tabela Resumo Qualidade e Problemas<br>
+22:26 - Prática utilizando UDM Pro Unifi<br>
+35:10 - Prática utilizando o Wavemon Linux<br>
+37:39 - Prática utilizando Smartphone WifiMan<br>
+40:30 - Conclusão e Agradecimentos<br>
 
 [![Módulo 05 Aula 23](http://img.youtube.com/vi/ms-NI9pYsPM/0.jpg)](https://www.youtube.com/watch?v=ms-NI9pYsPM "Módulo 05 Aula 23")
 
